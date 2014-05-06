@@ -1,0 +1,9 @@
+My understanding of software quality assurance:
+    The quality means meeting requirments, whether or not the product or service does what the customer needs. In another word Quality is, “fit for use.”
+    Prevention means to prevent quality defects or deficiencies in the first place, and to make the products and processes assessable by quality management program. Prevention decreases production costs because the sooner a defect is located and corrected, the less costly it will be in the long run. The greatest payback is with prevention.
+    The overall goal of verification is to ensure that each software product developed throughout the software life cycle meets the customer’s needs and objectives as specified in the software requirements document. Validation checks that the system meets the customer’s requirements at the end of the life cycle.Usually Verifications take place at the end of each phase. Validations take place just before the production.
+    Most software quality assurance activities can be categorized into:
+testing
+quality control
+software configuration management
+		The success software quality assurance program also depends on a coherent collection of standards, practices, conventions, and specification.
